@@ -1,0 +1,11 @@
+## Project Datasets: Limit Order Book (LOB) Data
+
+Due to GitHub file size limits (100MB), all large LOB datasets are sourced externally from Kaggle.
+
+### 1. Financial Instrument (FI) Dataset (Original Requirement)
+* **Source:** https://www.kaggle.com/datasets/praanj/limit-orderbook-data
+* **Description:** Contains LOB data for specific financial instruments.
+
+### 2. High-Frequency Crypto LOB Dataset
+* **Source:** https://www.kaggle.com/datasets/martinsn/high-frequency-crypto-limit-order-book-data/data
+* **Description:** High-frequency LOB data for crypto assets.
