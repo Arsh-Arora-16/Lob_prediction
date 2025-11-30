@@ -1,0 +1,22 @@
+csv_file: /Users/arsharora/Desktop/Lob_prediction/raw_data/ADA_5min.csv
+dataset_length (samples): 3307
+train_samples: 1984
+val_samples: 661
+test_samples: 662
+input_dim: 90
+seq_len: 50
+pred_horizon: 10
+hidden_dim: 64
+num_layers: 2
+batch_size: 32
+epochs: 5
+best_val_loss: 0.00020854635800903525
+train_loss_last_epoch: 0.00012715670433657755
+val_loss_last_epoch: 0.00023763673504402033
+test_mse: 0.0004394263642565052
+direction_accuracy_percent: 50.151057401812686
+model_saved_to: /Users/arsharora/Desktop/Lob_prediction/outputs/ADA_5min/models/best_model.pth
+inference_sample_current_price: 1.4102
+inference_sample_predicted_price: 1.4101318229660553
+inference_sample_true_price: 1.4444350503176941
+elapsed_seconds: 5.6043291091918945
